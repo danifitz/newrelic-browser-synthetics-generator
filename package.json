@@ -1,0 +1,15 @@
+{
+  "name": "unilever-synthetics",
+  "version": "1.0.0",
+  "description": "automation to create synthetic scripts for Unilever",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^2.8.0",
+    "request": "^2.88.0"
+  }
+}

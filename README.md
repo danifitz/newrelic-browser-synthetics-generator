@@ -1,0 +1,1 @@
+# newrelic-browser-synthetics-generator
